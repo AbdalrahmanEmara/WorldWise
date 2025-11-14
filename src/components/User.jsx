@@ -11,11 +11,10 @@ const FAKE_USER = {
 
 function User() {
   const {user, logout} = useAuth();
-  const navigate = useNavigate()
+
   function handleClick(e) {
     e.preventDefault();
     logout();
-    navigate('/');
   }
 
   return (

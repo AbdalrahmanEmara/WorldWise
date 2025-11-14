@@ -6,3 +6,5 @@
   - get user email & password from login form.
   - check with the api end point if the givin user is correct
   - if the credentials are correct, then we redirect the user to the main app and save user object in our state.
+
+## useEffect in component is executed after component is rendered.
