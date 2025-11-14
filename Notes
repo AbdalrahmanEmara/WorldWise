@@ -1,3 +1,8 @@
 1- The reducer function need to be pure function, don't include api requests.
 2- Set reducer action types as a name of events.
 3- If the function is not async, we will pass dispatch function from context and the info is in it's component.
+
+## User Authentication:
+  - get user email & password from login form.
+  - check with the api end point if the givin user is correct
+  - if the credentials are correct, then we redirect the user to the main app and save user object in our state.
