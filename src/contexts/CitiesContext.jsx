@@ -105,7 +105,7 @@ function CitiesProvider({ children }) {
         },
       });
       const data = await res.json();
-      dispatch({type: "cities/created", payload: data});
+      dispatch({type: "city/created", payload: data});
     } catch {
       dispatch({type: "rejected", payload: "There was an error a creating city..."});
     }
@@ -118,7 +118,7 @@ function CitiesProvider({ children }) {
       const res = await fetch(`${BASE_URL}/cities/${id}`, {
         method: "DELETE",
       });
-      dispatch({type: 'cities/deleted', payload: id});
+      dispatch({type: 'city/deleted', payload: id});
     } catch {
       dispatch({type: 'rejected', payload: "There was an error deleting city..."});
     }

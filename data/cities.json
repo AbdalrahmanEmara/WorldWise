@@ -1,87 +1,27 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
+      "id": "a991",
+      "cityName": "Torres Vedras",
       "country": "Portugal",
       "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "id": "4bd9",
-      "cityName": "Aguilar de Campoo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-11-13T21:28:48.238Z",
+      "date": "2025-11-14T04:29:10.078Z",
       "notes": "",
       "position": {
-        "lat": "42.81974094538545",
-        "lng": "-4.340011942596827"
+        "lat": "39.12153746241925",
+        "lng": "-9.184570312500002"
       }
     },
     {
-      "id": "0e87",
-      "cityName": "Palencia",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-11-13T21:28:50.445Z",
-      "notes": "",
-      "position": {
-        "lat": "41.93161115020594",
-        "lng": "-4.598334555061402"
-      }
-    },
-    {
-      "id": "4ed4",
-      "cityName": "Siroua",
-      "country": "Morocco",
-      "emoji": "🇲🇦",
-      "date": "2025-11-13T21:28:55.737Z",
-      "notes": "",
-      "position": {
-        "lat": "30.791544674167994",
-        "lng": "-7.276115052345716"
-      }
-    },
-    {
-      "id": "ac9c",
-      "cityName": "Giza",
+      "id": "01b7",
+      "cityName": "Cairo",
       "country": "Egypt",
       "emoji": "🇪🇬",
-      "date": "2025-11-13T21:29:10.107Z",
+      "date": "2025-11-14T05:39:56.436Z",
       "notes": "",
       "position": {
-        "lat": "28.36813735125545",
-        "lng": "28.90987490406566"
-      }
-    },
-    {
-      "id": "e671",
-      "cityName": "Giza",
-      "country": "Egypt",
-      "emoji": "🇪🇬",
-      "date": "2025-11-13T21:29:28.614Z",
-      "notes": "",
-      "position": {
-        "lat": "29.964447086803744",
-        "lng": "31.16828760872559"
-      }
-    },
-    {
-      "id": "91f0",
-      "cityName": "Suez",
-      "country": "Egypt",
-      "emoji": "🇪🇬",
-      "date": "2025-11-13T21:48:23.543Z",
-      "notes": "",
-      "position": {
-        "lat": "30.06958217678972",
-        "lng": "32.55697332041088"
+        "lat": "30.088107753367257",
+        "lng": "31.311035156250004"
       }
     }
   ]

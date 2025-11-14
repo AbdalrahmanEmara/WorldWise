@@ -6,6 +6,7 @@ import { useCities } from "../contexts/CitiesContext";
 import { useGeolocation } from "../hooks/useGeolocation";
 import Button from "./Button";
 import useUrlPosition from "../hooks/useUrlPosition";
+import User from "./User";
 
 export default function Map() {
   const {cities} = useCities();
